@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandBox", "SandBox\SandBox.vcxproj", "{28D6E472-1BB6-4558-A822-4F2AA6C0A28B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WoodPecker", "WoodPecker.vcxproj", "{4BF62759-4107-41FC-ADF1-07395DEC2D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF62759-4107-41FC-ADF1-07395DEC2D87}.Debug|x64.ActiveCfg = Debug|x64
+		{4BF62759-4107-41FC-ADF1-07395DEC2D87}.Debug|x64.Build.0 = Debug|x64
+		{4BF62759-4107-41FC-ADF1-07395DEC2D87}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BF62759-4107-41FC-ADF1-07395DEC2D87}.Debug|x86.Build.0 = Debug|Win32
+		{4BF62759-4107-41FC-ADF1-07395DEC2D87}.Release|x64.ActiveCfg = Release|x64
+		{4BF62759-4107-41FC-ADF1-07395DEC2D87}.Release|x64.Build.0 = Release|x64
+		{4BF62759-4107-41FC-ADF1-07395DEC2D87}.Release|x86.ActiveCfg = Release|x64
+		{4BF62759-4107-41FC-ADF1-07395DEC2D87}.Release|x86.Build.0 = Release|x64
+		{28D6E472-1BB6-4558-A822-4F2AA6C0A28B}.Debug|x64.ActiveCfg = Debug|x64
+		{28D6E472-1BB6-4558-A822-4F2AA6C0A28B}.Debug|x64.Build.0 = Debug|x64
+		{28D6E472-1BB6-4558-A822-4F2AA6C0A28B}.Debug|x86.ActiveCfg = Debug|Win32
+		{28D6E472-1BB6-4558-A822-4F2AA6C0A28B}.Debug|x86.Build.0 = Debug|Win32
+		{28D6E472-1BB6-4558-A822-4F2AA6C0A28B}.Release|x64.ActiveCfg = Release|x64
+		{28D6E472-1BB6-4558-A822-4F2AA6C0A28B}.Release|x64.Build.0 = Release|x64
+		{28D6E472-1BB6-4558-A822-4F2AA6C0A28B}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD57C4A4-29A0-450B-A1F6-492A04FD6946}
+	EndGlobalSection
+EndGlobal
