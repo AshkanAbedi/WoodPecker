@@ -5,7 +5,10 @@ namespace WoodPecker {
 
 	Application::Application()
 	{
-
+		int mainNumber= 0;
+		
+		mainNumber++; 
+		
 	}
 
 	Application::~Application()
